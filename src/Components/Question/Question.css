@@ -1,0 +1,29 @@
+.slider-active {
+  width: 221.3px;
+  height: 12px !important;
+  border-radius: 30px;
+  background-color: grey !important;
+  background-image: linear-gradient(
+    251deg,
+    #5773ff,
+    #3497fd 30%,
+    #3acce1 65%,
+    #2cd443
+  ) !important;
+}
+.slider-not-active {
+  width: 295px;
+  height: 12px !important;
+  object-fit: contain;
+  border-radius: 30px;
+  background-color: grey !important;
+}
+.thumbStyle {
+  background-color: white !important;
+  height: 40px !important;
+  width: 40px !important;
+  box-shadow: 0 0 30px #d4d8e0 !important;
+}
+.thumbStyle:hover {
+  box-shadow: 0 0 30px #d4d8e0 !important;
+}

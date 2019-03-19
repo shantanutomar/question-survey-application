@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="icons_dark_arrow_back" width="24" height="24" data-name="icons/dark/arrow_back" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#454f63}
+        </style>
+    </defs>
+    <path id="bg" d="M0 0h24v24H0z" class="cls-1"/>
+    <path id="arrow_back" d="M19 11H7.83l4.88-4.88a1.008 1.008 0 0 0 0-1.42 1 1 0 0 0-1.41 0l-6.59 6.59a1 1 0 0 0 0 1.41l6.59 6.59a1 1 0 1 0 1.41-1.41L7.83 13H19a1 1 0 0 0 0-2z" class="cls-2"/>
+</svg>

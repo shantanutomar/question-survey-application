@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="288" height="288" viewBox="0 0 288 288">
+    <defs>
+        <style>
+            .cls-1,.cls-2,.cls-3{fill:#fff}.cls-1{opacity:.06}.cls-2{opacity:.1}.cls-3{opacity:.12}
+        </style>
+    </defs>
+    <g id="gradient_rings" data-name="gradient rings" transform="translate(-44 -143)">
+        <circle id="Ellipse" cx="144" cy="144" r="144" class="cls-1" transform="translate(44 143)"/>
+        <circle id="Ellipse-2" cx="96" cy="96" r="96" class="cls-2" data-name="Ellipse" transform="translate(92 191)"/>
+        <circle id="Ellipse-3" cx="48" cy="48" r="48" class="cls-3" data-name="Ellipse" transform="translate(140 239)"/>
+    </g>
+</svg>

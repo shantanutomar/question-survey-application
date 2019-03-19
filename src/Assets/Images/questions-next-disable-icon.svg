@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#78849e}
+        </style>
+    </defs>
+    <g id="icons_gray_arrow_forward" data-name="icons/gray/arrow_forward" transform="translate(-120 -120)">
+        <path id="bg" d="M0 0h24v24H0z" class="cls-1" transform="translate(120 120)"/>
+        <path id="arrow_forward" d="M5 13h11.17l-4.88 4.88a1.008 1.008 0 0 0 0 1.42 1 1 0 0 0 1.41 0l6.59-6.59a1 1 0 0 0 0-1.41l-6.58-6.6a1 1 0 1 0-1.41 1.41L16.17 11H5a1 1 0 0 0 0 2z" class="cls-2" transform="translate(120 120)"/>
+    </g>
+</svg>

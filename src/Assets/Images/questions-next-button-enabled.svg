@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="343" height="52" viewBox="0 0 343 52">
+    <defs>
+        <style>
+            .cls-1{fill:#5773ff}.cls-2,.cls-4{fill:#fff}.cls-2{font-size:13px;font-family:Gibson-SemiBold,Gibson;font-weight:600}.cls-3{fill:none}
+        </style>
+    </defs>
+    <g id="button_blue_arrow_f_active" data-name="button/blue/arrow_f/active" transform="translate(-612 -506)">
+        <rect id="Bound" width="343" height="52" class="cls-1" rx="26" transform="translate(612 506)"/>
+        <text id="NEXT_QUESTION" class="cls-2" data-name="NEXT QUESTION" transform="translate(819.016 537)">
+            <tspan x="-98.943" y="0">NEXT QUESTION</tspan>
+        </text>
+        <g id="icons_light_arrow_forward" data-name="icons/light/arrow_forward" transform="translate(743 410)">
+            <path id="bg" d="M0 0h24v24H0z" class="cls-3" transform="translate(80 110)"/>
+            <path id="arrow_forward" d="M5 13h11.17l-4.88 4.88a1.008 1.008 0 0 0 0 1.42 1 1 0 0 0 1.41 0l6.59-6.59a1 1 0 0 0 0-1.41l-6.58-6.6a1 1 0 1 0-1.41 1.41L16.17 11H5a1 1 0 0 0 0 2z" class="cls-4" transform="translate(80 110)"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,132 @@
+.root {
+  display: flex;
+  border: 2px solid slateblue;
+  height: 343px;
+  width: 343px;
+  border-radius: 10px;
+}
+.centerRoot {
+  border: 2px solid white;
+  height: 69px;
+  width: 69px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  margin-left: 143px;
+  background-color: white;
+  z-index: 1;
+}
+.centerRoot span {
+  font-size: 13;
+  font-family: "GibsonSemiBold";
+}
+
+.progress {
+  width: 115px;
+  height: 20px;
+  position: absolute;
+  z-index: 0;
+  border-radius: 0 1.25rem 1.25rem 0;
+}
+
+/* Postions can be changed for different progress bars */
+.progress1 {
+  transform-origin: left;
+  transform: translate(176px, 193px) rotate(90deg);
+}
+.progress2 {
+  transform-origin: left;
+  transform: translate(144px, 163px) rotate(180deg);
+}
+.progress3 {
+  transform-origin: left;
+  transform: translate(176px, 128px) rotate(270deg);
+}
+.progress4 {
+  transform-origin: left;
+  transform: translate(209px, 163px) rotate(360deg);
+}
+.progress5 {
+  transform-origin: left;
+  transform: translate(205px, 178px) rotate(388deg);
+}
+.progress6 {
+  transform-origin: left;
+  transform: translate(193px, 189px) rotate(419deg);
+}
+.progress7 {
+  transform-origin: left;
+  transform: translate(205px, 146px) rotate(331deg);
+}
+.progress8 {
+  transform-origin: left;
+  transform: translate(194px, 133px) rotate(301deg);
+}
+.progress9 {
+  transform-origin: left;
+  transform: translate(147px, 145px) rotate(205deg);
+}
+.progress10 {
+  transform-origin: left;
+  transform: translate(150px, 178px) rotate(152deg);
+}
+.progress11 {
+  transform-origin: left;
+  transform: translate(159px, 132px) rotate(237deg);
+}
+.progress12 {
+  transform-origin: left;
+  transform: translate(161px, 188px) rotate(121deg);
+}
+
+/* Background color can be changed for different progress bar */
+.progress3 > div {
+  background-color: #2cd443;
+  border-radius: inherit;
+}
+.progress9 > div {
+  background-color: #2cd443;
+  border-radius: inherit;
+}
+.progress11 > div {
+  background-color: #2cd443;
+  border-radius: inherit;
+}
+.progress4 > div {
+  background-color: #3acce1;
+  border-radius: inherit;
+}
+.progress7 > div {
+  background-color: #3acce1;
+  border-radius: inherit;
+}
+.progress8 > div {
+  background-color: #3acce1;
+  border-radius: inherit;
+}
+.progress5 > div {
+  background-color: #665eff;
+  border-radius: inherit;
+}
+.progress6 > div {
+  background-color: #665eff;
+  border-radius: inherit;
+}
+.progress1 > div {
+  background-color: #665eff;
+  border-radius: inherit;
+}
+.progress2 > div {
+  background-color: #3497fd;
+  border-radius: inherit;
+}
+.progress10 > div {
+  background-color: #3497fd;
+  border-radius: inherit;
+}
+.progress12 > div {
+  background-color: #3497fd;
+  border-radius: inherit;
+}
